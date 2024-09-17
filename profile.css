@@ -1,0 +1,35 @@
+body{
+	background-color: #DFFAFA;
+
+}
+
+.logo img{
+    background-color: #2A3140;
+	width:  100px;
+	border-radius: 50%;
+	margin-left: 450px;
+}
+
+.container{
+	background-color: #99C0D8;
+	height: 500px;
+	width: 30%;
+	margin-left: 700px;
+	margin-right: 700px;
+	margin-top: 100px;
+	color: #000000;
+}
+
+h1{
+    padding-left: 32%;
+    background-color: #ED6C4F;
+    color: #000000;
+}
+h2{ 
+    padding-left: 10%;
+    background-color: #3E5B81;
+    color: #ffffff;
+}
+h4{
+    
+}
